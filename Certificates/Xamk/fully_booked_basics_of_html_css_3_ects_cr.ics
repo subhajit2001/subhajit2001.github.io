@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lyyti//NONSGML Lyyti//EN
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:a78ad864c58592A9367655f1744741135b312625F536c33B421cBeCDaF06E129d2c0452
+ fC81f849af2C203@lyyti.fi
+DTSTART:20190930T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20191230T220000Z
+LOCATION:Xamk\, eCampus\, online studies
+SUMMARY:FULLY BOOKED: Basics of html & css\, 3 ECTS cr 
+CLASS:PUBLIC
+DESCRIPTION:    Confirmation of registration:\n    https://www.lyyti.fi/tic
+ ket/345168-1440557982
+X-ALT-DESC;FMTTYPE=text/html:    Confirmation of registration:<br />\n    <
+ a href=\"https://www.lyyti.fi/ticket/345168-1440557982\">https://www.lyyti
+ .fi/ticket/345168-1440557982</a>
+DTSTAMP:20190925T171318Z
+END:VEVENT
+END:VCALENDAR
